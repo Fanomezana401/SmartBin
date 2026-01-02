@@ -3,9 +3,9 @@
 #define ECHO_POUBELLE 22
 
 // Blynk
-#define BLYNK_TEMPLATE_ID "--------------"
+#define BLYNK_TEMPLATE_ID "TMPL2D6nqipIG"
 #define BLYNK_TEMPLATE_NAME "Smart City Bacs"
-#define BLYNK_AUTH_TOKEN "---------------"
+#define BLYNK_AUTH_TOKEN "f7IGo5G535PEIEvbwQKG549_YgYDLLEq"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
