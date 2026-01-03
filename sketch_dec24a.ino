@@ -5,7 +5,7 @@
 // Blynk
 #define BLYNK_TEMPLATE_ID "TMPL2D6nqipIG"
 #define BLYNK_TEMPLATE_NAME "Smart City Bacs"
-#define BLYNK_AUTH_TOKEN "f7IGo5G535PEIEvbwQKG549_YgYDLLEq"
+#define BLYNK_AUTH_TOKEN "---------------"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
