@@ -38,7 +38,8 @@ The system consists of two independent units working together:
 
 ## 🔐 Secrets Management (Security)
 
-To protect your credentials, create a file named `config.h` in the same folder as your ESP32 code. **Never upload this file to GitHub.** (It is already added to `.gitignore`).
+Replace YOUR_WIFI_NAME and YOUR_AUTH_TOKEN with the name of your wifi
+Same with YOUR_AUTH_TOKEN
 
 **`config.h` template:**
 ```cpp
