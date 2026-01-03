@@ -1,6 +1,4 @@
-Here is the professional English version of your README.md. It is structured to be clear for international recruiters or collaborators on GitHub.
 
-Markdown
 
 # 🏙️ Smart City: IoT Intelligent Waste Management System
 
