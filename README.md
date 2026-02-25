@@ -1,11 +1,11 @@
-# Hospital Information System (HIS) - Odoo ERP
+# 🏙️ Smart City: IoT Intelligent Waste Management System
 
 **Authors:** Fanomezana Sarobidy Michelle RAZAFINDRAKOTO  & Elie Kokou Mokpokpo ETOVENA  
 **Supervised by:** Prof. Brahim BAKKAS 
 **Academic Year:** 2025–2026  
 **GitHub Repository:** [https://github.com/Fanomezana401/SmartBin](https://github.com/Fanomezana401/SmartBin)
 
-# 🏙️ Smart City: IoT Intelligent Waste Management System
+
 
 This project is part of a **Smart City** vision. It aims to optimize urban waste management through automation and remote monitoring using IoT technology.
 
